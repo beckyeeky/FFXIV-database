@@ -6,515 +6,444 @@ int32,Image,str,str
 2,,"",""
 3,,"",""
 4,,"",""
-5,,"ついに「蒼天街」復興事業が開始となります。","フランセル"
-6,,"ついに「蒼天街」復興事業が開始となります。","フランセル"
-7,,"主要な窓口が整備されました！","ポットキン"
-8,,"主要な窓口が整備されました！","ポットキン"
-9,,"作業環境の改善に、ご協力を！","リズベス"
-10,,"作業環境の改善に、ご協力を！","リズベス"
-11,,"「名も無き者たちの広場」の整備が完了しました！","フランセル"
-12,"ui/icon/070000/070301.tex","皆さん、ご協力ありがとうございます。
-蒼天街復興事業の総監を務める、フランセル・ド・アインハルトです。
-おかげさまで、蒼天街の復興事業が正式に開始されました。
-
-ただいま、蒼天街入口の「名も無き者たちの広場」の整備を進めています。完工後は、職人の皆さんがご利用する、正式な窓口となる予定です。
-今後の復興事業を円滑に進めていくためにも重要な施設ですので、
-ぜひ計画への協力を、よろしくお願いいたします。
-
-フランセル",""
-13,"ui/icon/070000/070302.tex","充分な資材が集まったら、
-第一期の「復興共同作業」に着手するぜ。
-作業工程について書いとくんで、みんな見てくれ。
-
-1.物資集積場から物資を入手
-2.一次作業場で資材に加工
-3.最終作業場で建築
-
-以上だ、よろしく頼む。
-
-オーグベルト",""
-14,"ui/icon/070000/070303.tex","納品窓口担当のポットキンです！
-先日は窓口の整備に協力いただき、ありがとうございました！
-皆様の納品を滞りなくお受けできるよう、尽力します！
-
-現在は、「名も無き者たちの広場」西側にも、
-新たな施設を建設すべく、準備を進めています！
-みなさまからの納品を、お待ちしております！
-
-ポットキン",""
-15,"ui/icon/070000/070304.tex","充分な資材が集まったら、
-第二期の「復興共同作業」に着手するぜ。
-作業工程は前回と同じだが、念のため書いておくな。
-
-1.物資集積場から物資を入手
-2.一次作業場で資材に加工
-3.最終作業場で建築
-
-以上だ、よろしく頼む。
-
-オーグベルト",""
-16,"ui/icon/070000/070305.tex","職人の皆さん、
-日頃からのご協力、ありがとうございます！
-
-「名も無き者たちの広場」は、復興事業の中心地ですよね！
-ならもっと居心地を……じゃなくて、作業環境を改善すべきです！
-篝火を灯したり、この<Sheet(EObj,2010775,0)/>を整えたり……。
-そのために必要な資材のご協力、お願いしま～す！
-
-リズベス",""
-17,"ui/icon/070000/070306.tex","第三期の復興共同作業は、二段構えだ。
-
-【篝火の整備】
-1.物資集積場から物資を入手
-2.一次作業場で燃料に加工
-3.篝火に燃料を投入
-
-【追加設備の整備】
-1.物資集積場から物資を入手
-2.一次作業場で資材に加工
-3.最終作業場で建築
-
-以上だ、よろしく頼む。
-
-オーグベルト",""
-18,"ui/icon/070000/070307.tex","「名も無き者たちの広場」整備計画の全工程が完了しました。
-次の復興事業計画が決定するまでは、
-備品の納品などに、ご協力よろしくお願いします。
-
-復興事業はまだまだ、これからで、
-途方もない時間と労力が必要になることでしょう。
-しかし、僕はこの街を、笑顔のあふれる明るい街にしたいのです。
-
-それにはこれからも、皆さんの協力が必要です。
-引き続き、よろしくお願いします。
-
-フランセル",""
-19,,"蒼天街に納品していただく製作物は、一定の水準を超えた、
-「収集品」をお願いしています。
-
-また、依頼品の製作方法については、納品窓口「ポットキン」より説明を受けたあと、お手元の「製作手帳」の「イシュガルド復興」の項目をご確認ください。
-
-納品窓口「ポットキン」は納品のみならず、依頼品の確認や、<Sheet(Item,28063,0)/>の払い出しを担当しています。お気軽にお声かけください。
-
-<Sheet(Item,28063,0)/>は、
-納品された製作物の品質や種類に応じた枚数をお渡しします。
-
-納品いただいた製作物は、
-もれなく全て、復興のために利用させていただきますので、
-たくさんの納品をお待ちしています。",""
-20,,"「復興共同作業」とは、
-大人数の作業者を要する、大規模な作業計画のことです。
-納品された物資が所定の数に達すると、着工されます。
-
-少しでも多くの作業者にお集まりいただくため、
-事前に、この<Sheet(EObj,2010775,0)/>にて告知を貼りだします。
-進捗状況をご確認ください。
-
-また、内容は様々ですが、ガレキの除去や建物の建造などを行うため、作業者は製作及び採集の職人に限られます。その時々の詳細は、別途貼りだされますので、そちらもご確認ください。
-
-ご協力いただいた方には、<Sheet(Item,28063,0)/>をお渡しします。
-奮ってご参加ください。",""
-21,,"「イシュガルド復興」は、
-我が国の貴族院、庶民院で承認された、公的な事業計画です。
-身分や出身を問わず、公募で人員を募っています。
-外部からのお越しいただいた優秀な職人の方々には、技術指導や高度な製作物をお願いしています。
+5,,"The reconstruction of the Firmament has officially begun.","Francel"
+6,,"The reconstruction of the Firmament has officially begun.","Francel"
+7,,"New collection counters open for business!","Potkin"
+8,,"New collection counters open for business!","Potkin"
+9,,"Help needed to improve site ambience!","Lizbeth"
+10,,"Help needed to improve site ambience!","Lizbeth"
+11,,"Works in the Mendicant's Court are now complete.","Francel"
+12,"ui/icon/070000/070301.tex","In my capacity as overseer, it is with great pleasure that I, Francel de Haillenarte, announce the official commencement of the reconstruction of the Firmament district.
 
-また、この「蒼天街」では、特別手形「<Sheet(Item,28063,0)/>」が導入されています。復興事業に関する報酬はこちらで払い出し、蒼天街で様々な物品と交換することが可能です。
-扱っている品は、担当の「エニー」にご確認ください。
-
-そして、日々この街を訪れる職人方が、復興の状況について確認できるよう、こちらの「<Sheet(EObj,2010775,0)/>」が設置されています。
-現在の復興個所や「復興共同作業」に関する情報を、担当の者が更新していきますので、定期的にご確認することをお勧めします。
-
-イシュガルド復興のため、お力添えをお願いいたします！",""
-22,,"十字鍬通りの整備計画を開始します！","フランセル"
-23,,"聖ロエル広場の整備計画を開始します！","フランセル"
-24,,"ニューネスト居住区の整備計画を開始します！","フランセル"
-25,,"今期の復興事業計画は全て完了しました！","フランセル"
-26,"ui/icon/070000/070308.tex","皆さん、日々の復興へのご協力ありがとうございます。
-蒼天街復興事業の総監を務める、フランセル・ド・アインハルトです。
+As the first step in our ongoing efforts, we shall establish the Mendicant's Court as our base of operations. This area shall house facilities essential to the smooth and efficient operation of the project, and I humbly call upon your cooperation in laying the first stone in our great cause.
 
-前回の整備計画では、予想を上回る皆さんのご協力に対処しきれず、ご迷惑をおかけしました。
-精進していきますので、引き続きご協力いただければと思います。
-
-今期の計画では、戦災で家をなくした市民を受け入れるため、ニューネスト居住区の完成を目指します。
-そのためにも、まずは居住区に隣接する通路、すなわち十字鍬通りと聖ロエル広場の整備から進める予定です。
-ご協力のほど、よろしくお願いいたします。
-
-フランセル",""
-27,"ui/icon/070000/070309.tex","蒼天街復興事業、現場監督のオーグベルトだ。
-今期最初の復興共同作業では、この広場のすぐ北に倒れこんでいる、塔の瓦礫を撤去しなきゃな。
-以下の工程で進めてくれ。
+Francel de Haillenarte",""
+13,"ui/icon/070000/070302.tex","Once we have enough materials stockpiled, I'll schedule works for the first stage. Hope to see our builders out in force.
 
-1.大きな瓦礫を小さく破砕する
-2.持ち運べる破砕片を選別する
-3.破砕片を集積場まで運搬する
+For your reference, the workflow's as follows:
+1. Obtain material from supply pile
+2. Process material at work station
+3. Assemble material at assembly site
 
-以上だ、よろしく頼む。
+Simple as that. Let's do a good job of it, eh?
 
-オーグベルト",""
-28,"ui/icon/070000/070310.tex","検品窓口のフロパッサンっす！
-次の復興共同作業では、引き続き十字鍬通りの瓦礫撤去を進めていくっすよ！
-道が狭いんで、落っこちないように気をつけてくださいね！
-工程も書いとくっす！
+Augebert",""
+14,"ui/icon/070000/070303.tex","I wish to personally thank those of you who aided in the construction of the facilities on the east side. With a fully furnished counter from which to work, I can perform my collection duties with greater ease and efficiency.
 
-1.大きな瓦礫を小さく破砕する
-2.持ち運べる破砕片を選別する
-3.破砕片を集積場まで運搬する
+Preparations are now underway to build facilities on the court's west, and for this we will of course require more supplies. I look forward to your continued contributions!
 
-復興共同作業はギャザラーの皆さんでも参加できるっす！
-ディアデム諸島での資源採集の合間にでも、ぜひお願いします！
+Potkin",""
+15,"ui/icon/070000/070304.tex","Once we have enough materials stockpiled, I'll schedule works for the second stage. Hope to see our builders out in force.
 
-フロパッサン",""
-29,"ui/icon/070000/070311.tex","はーい！　クポフォーチュン担当リズベスです！
-十字鍬通りの復興が進んできましたね！
-次の復興共同作業は二種類です！
+The workflow will be the same as before, but here it is again for good measure:
+1. Obtain material from supply pile
+2. Process material at work station
+3. Assemble material at assembly site
 
-【清掃作業】
-1.通路に残る微細な瓦礫片を清掃する
+Nothing to it. Keep up the good work, everyone.
 
-【舗装作業】
-1.物資集積場から物資を入手
-2.一次作業場で土木資材に加工
-3.破損個所で舗装
+Augebert",""
+16,"ui/icon/070000/070305.tex","Dear friends of the Firmament,
 
-作業の合間に、ぜひクポフォーチュンにも挑戦してくださいね！
+As the base of operations for the reconstruction effort, the Mendicant's Court can be likened to a home to us. And a home, if nothing else, should be cheery and welcoming.
 
-リズベス",""
-30,"ui/icon/070000/070312.tex","十字鍬通りの作業も大詰めだ！
-中央の広場については、市民の憩いの場になるような意匠を期待しているぜ。
+To that end, I propose that we improve the ambience of the court by refurbishing the skybuilders' board and lighting the braziers. A worthwhile cause, I hope you will agree, and help me to make it possible by contributing the necessary supplies.
 
-1.物資集積場から物資を入手
-2.一次作業場で資材に加工
-3.最終作業場で建築
+Lizbeth",""
+17,"ui/icon/070000/070306.tex","The works for the third stage has two parts: feeding the braziers and refurbishing the skybuilders' board.
 
-以上だ、よろしく頼む。
+Braziers:
+1. Obtain material from supply pile
+2. Process material into firewood at work station
+3. Feed firewood to brazier
+Skybuilders' board:
+1. Obtain material from supply pile
+2. Process material at work station
+3. Assemble material at assembly site
 
-オーグベルト",""
-31,"ui/icon/070000/070313.tex","職人の方々のおかげで、十字鍬通りが完成しました！
-この通りは、復興作業における物資運搬の要となるでしょう。
-ご協力、ありがとうございました！
+Nothing complicated. Let's all rally behind Lizbeth, eh?
 
-次は聖ロエル広場の整備を予定しています。
-段差などが多いので、作業はどうか安全第一で。
-どうぞよろしくお願いします。
+Augebert",""
+18,"ui/icon/070000/070307.tex","I am pleased to announce the completion of all works in the Mendicant's Court. This brings us to a brief hiatus as plans are finalized for the next phase, but you may as ever contribute to the cause by donating supplies.
 
-フランセル",""
-32,"ui/icon/070000/070314.tex","おかげさんで十字鍬通りが完成した！
-さっそくだが、次の通路の足場を組み立てるぞ！
-復興共同作業の内容は以下の通りだ。
+This is a momentous malmstone in our efforts, and we may rightly be proud for having reached it. But let none be mistaken: we still have a mountain to climb. The complete reconstruction of the Firmament will still take a tremendous amount of time and effort. Nonetheless, I am determined as ever to see that this district one day brims with smiles and happiness, and it is my hope that I can rely on your ongoing cooperation.
 
-1.物資集積場から物資を入手
-2.一次作業場で資材に加工
-3.最終作業場で建築
+Francel de Haillenarte",""
+19,,"Supplies sought by the Firmament reconstruction project take the form of collectables.
 
-オーグベルト",""
-33,"ui/icon/070000/070315.tex","皆様、ご機嫌麗しゅう。ランキング窓口担当、ルドブランです。
-聖ロエル広場の瓦礫除去の復興共同作業へのご参加、お待ちしております。
-手順は下記の通りです。
+Upon receiving an explanation from Potkin, you may review the recipes for these items under <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Ishgard Restoration<UIGlow>01</UIGlow><UIForeground>01</UIForeground> in your crafting log.
 
-1.大きな瓦礫を小さく破砕する
-2.持ち運べる破砕片を選別する
-3.破砕片を集積場まで運搬する
+Deliveries may be made to Potkin, who will issue you with an amount in skybuilders' scrips commensurate with the item and its collectability.
 
-皆様の日々の復興活動へのご尽力、しかと計上させていただいております！
+All contributions will be put to good use in the reconstruction effort, and we eagerly look forward to receiving yours.",""
+20,,"When sufficient supplies have been stockpiled, a call will go out for builders to assemble for a brief-but-intensive collaborative task known as concerted works.
 
-ルドブラン",""
-34,"ui/icon/070000/070316.tex","次の復興共同作業では、聖ロエル広場の清掃と舗装を行う予定だ。
-以下の工程で進めてくれ。
+In order to ensure a high level of participation, works are announced ahead of time on the skybuilders' board.
 
-【清掃作業】
-1.通路に残る微細な瓦礫片を清掃する
+Due to the specialized nature of these works, they can only be undertaken by crafters and gatherers. The specifics of upcoming works may be reviewed on this board.
 
-【舗装作業】
-1.物資集積場から物資を入手
-2.一次作業場で土木資材に加工
-3.破損個所で舗装
+Participants will earn skybuilders' scrips as a reward.",""
+21,,"The Houses of Lords and Commons have approved large-scale works to restore the Holy See of Ishgard. The principal site for the project is the Firmament district, which sustained extensive damage during the war.
 
-以上だ、よろしく頼む。
+Willing and able hands are sought to contribute to the reconstruction effort, regardless of birth and origin. Foreign experts will primarily be tasked with technical oversight along with the preparation and procurement of supplies.
 
-オーグベルト",""
-35,"ui/icon/070000/070317.tex","次の復興共同作業では、お立ち台や水路の建設を行う！
-手順は以下の通りだ！
+Contributions are rewarded by way of skybuilders' scrips, which may be exchanged in the district for myriad wares. For more information, please seek out Enie.
 
-1.物資集積場から物資を入手
-2.一次作業場で資材に加工
-3.最終作業場で建築
+All participants are urged to refer to this notice board often for project news such as pending works.
 
-以上だ、よろしく頼む。
+We thank you for your part in rebuilding our great nation.",""
+22,,"Works on the Mattock have begun.","Francel"
+23,,"Works on Saint Roelle's Dais have begun.","Francel"
+24,,"Works on the New Nest have begun.","Francel"
+25,,"The reconstruction of the New Nest is complete!","Francel"
+26,"ui/icon/070000/070308.tex","I wish to begin by offering my heartfelt thanks for your ongoing efforts on the Firmament's behalf.
 
-オーグベルト",""
-36,"ui/icon/070000/070318.tex","聖ロエル広場が完成しました！
-広場や水路の美しい意匠、感謝します。
-ぜひ皆さんも、往来を眺めたり、歓談したりと憩いの場にしてくださいね。
+Next, allow me to apologize for any inconvenience you may have experienced during the previous phase of works. So great were the number of willing hands, we were figuratively and literally overwhelmed, but I pledge that we will do better by our valued builders in future.
 
-いよいよ、居住区の整備に取りかかります。
-広大な敷地のため、作業量が多くなりますが、どうかご協力をお願いいたします。
+For the current phase of the restoration, we shall build the New Nest, a residential quarter intended for those who lost their homes in the fires of war. Works will begin with the construction of the main thoroughfare, the Mattock. My humble thanks in advance for your contribution to the cause.
 
-フランセル",""
-37,"ui/icon/070000/070319.tex","ついに居住区の作業に着手するぜ！
-下記の手順で、瓦礫撤去の復興共同作業に参加してくれ！
+Francel de Haillenarte",""
+27,"ui/icon/070000/070309.tex","Our first task for the new phase is clearing out the collapsed pillars just north of the court.
 
-1.大きな瓦礫を小さく破砕する
-2.持ち運べる破砕片を選別する
-3.破砕片を集積場まで運搬する
+We'll go about it as follows:
+1. Break down large debris
+2. Gather up fragments
+3. Transport fragments for disposal
 
-広くて大変だが、頑張りどころだ。
+As easy as falling off a log.
 
-オーグベルト",""
-38,"ui/icon/070000/070320.tex","皆さん、いつもたくさんの物資の納品、ありがとうございます！
-おかげさまで、復興共同作業計画も、順調に進んでいます。
-前回に引き続き、ガレキの撤去にご協力をお願いいたしますっ！
+Augebert",""
+28,"ui/icon/070000/070310.tex","Your friendly local resource inspector, Flotpassant, at your service! In the upcoming concerted works, we shall continue to clear out debris along the Mattock. The way is narrow, so please take care with your footing.
 
-1.大きな瓦礫を小さく破砕する
-2.持ち運べる破砕片を選別する
-3.破砕片を集積場まで運搬する
+The works will unfold as follows:
+1. Break down large debris
+2. Gather up fragments
+3. Transport fragments for disposal
 
-以上、よろしくお願いしますっ！
+Our intrepid gatherers are also welcome to join in the works, and we hope to see full many of you out there between your fruitful forays to the Diadem.
 
-ポットキン",""
-39,"ui/icon/070000/070321.tex","おかげさまで、ニューネスト居住区の瓦礫撤去作業ももうすぐ完了です！
-もう少しだけ、下記の復興共同作業にご協力ください！
+Flotpassant",""
+29,"ui/icon/070000/070311.tex","Dear friends of the Firmament,
 
-1.大きな瓦礫を小さく破砕する
-2.持ち運べる破砕片を選別する
-3.破砕片を集積場まで運搬する
+Our good progress continues on the Mattock, and we now look to the next works, which comprise the following:
 
+Clearing:
+1. Clear away fine debris
+Repairing:
+1. Obtain material from supply pile
+2. Process material at work station
+3. Repair damaged area
 
-クポフォーチュンにも、ぜひ遊びにきてくださいね！
+Many thanks, and may the Kupo of Fortune favor you!
 
-リズベス",""
-40,"ui/icon/070000/070322.tex","おかげさんで、今期の瓦礫撤去作業は終了だ！
-次の復興共同作業は、ニューネスト居住区全体の、清掃と舗装だな。
-広いから手分けして作業してくれ。
+Lizbeth",""
+30,"ui/icon/070000/070312.tex","It's the final stretch for the Mattock, people. Last but not least, we're building the fountain.
 
-【清掃作業】
-1.通路に残る微細な瓦礫片を清掃する
+Workflow's as follows:
+1. Obtain material from supply pile
+2. Process material at work station
+3. Use material at building site
 
-【舗装作業】
-1.物資集積場から物資を入手
-2.一次作業場で土木資材に加工
-3.破損個所で舗装
+This is to be a place of rest and relaxation, so let's do a good job of it, eh?
 
-以上だ、よろしく頼む。
+Augebert",""
+31,"ui/icon/070000/070313.tex","Thanks to your tireless efforts, the Mattock now stretches out before us in splendor. This thoroughfare will serve as a vital artery for transporting materials for upcoming works, and ere long its paving stones shall ring with the footfalls of residents. My humblest gratitude to one and all.
 
-オーグベルト",""
-41,"ui/icon/070000/070323.tex","いよいよ、住居の建設段階まで到達したぞ！
-これも絶えず物資を納品してくれる職人がたのおかげだ！
-ついては、下記の手順で復興共同作業を頼む。
+The next step in the phase is the construction of Saint Roelle’s Dais. The site is rife with uneven surfaces, so please exercise the utmost caution when navigating the area.
 
-1.物資集積場から物資を入手
-2.一次作業場で資材に加工
-3.最終作業場で建築
+Francel de Haillenarte",""
+32,"ui/icon/070000/070314.tex","The Mattock's complete thanks to everyone's hard work, but don’t dust off your hands just yet. The next stage of construction beckons, and we need to put up a bunch of scaffolds.
 
-住人たちが凍えないよう、暖かい家にしないとな。
+Here's how we’re going to go about it:
+1. Obtain material from supply pile
+2. Process material at work station
+3. Assemble material at assembly site
 
-オーグベルト",""
-42,"ui/icon/070000/070324.tex","新しい家がどんどんできていくのを見るのは、見ていて気持ちがいいですね。
-この調子で、どんどん建てていっちゃいましょう！
-作業内容は、前回と同じですよ～。
+Nothing I reckon you haven't done before.
 
-1.物資集積場から物資を入手
-2.一次作業場で資材に加工
-3.最終作業場で建築
+Augebert",""
+33,"ui/icon/070000/070315.tex","Esteemed builders,
 
-蒼天街振興券が貯まったら、ぜひ交換にきてくださいね～。
+I pray this announcement finds you ready and willing to participate in the upcoming concerted works, which will unfold in the following manner:
+1. Break down large debris
+2. Gather up fragments
+3. Transport fragments for disposal
 
-エニー",""
-43,"ui/icon/070000/070325.tex","残すは、家三軒の建設だ！
-これが今期最後の復興共同作業になるぞ！　
+I look forward to seeing beads of sweat glistening upon your brows like so many glittering jewels!
 
-1.物資集積場から物資を入手
-2.一次作業場で資材に加工
-3.最終作業場で建築
+Your faithful skyward score tallier,
 
-以上だ、よろしく頼む。
+Ludovraint",""
+34,"ui/icon/070000/070316.tex","For the upcoming concerted works, we're going to do some clearing and repairing for Saint Roelle's Dais.
 
-オーグベルト",""
-44,"ui/icon/070000/070326.tex","皆さんのおかげで、
-ついにニューネスト居住区の全整備計画が完工しました！
-これで、雲霧街で凍えていた市民へ、
-暖かい家を提供することができます！
-本当にありがとうございます！
+Clearing:
+1. Clear away fine debris
+Repairing:
+1. Obtain material from supply pile
+2. Process material at work station
+3. Repair damaged area
 
-次の復興事業計画が決定するまで、少々お待ちください。
-物資の納品は、引き続きお待ちしています。
-今後もご協力、どうぞよろしくお願いいたします！
+Fundamental work, but let's give it no less than our best.
 
-フランセル",""
-45,,"「クポフォーチュン」は、物資納品と連動した復興くじです。
+Augebert",""
+35,"ui/icon/070000/070317.tex","Next up for Saint Roelle's Dais, we're building the water channel and the stage itself.
 
-クポフォーチュン対象の依頼品を「ポットキン」へ納品すると、スタンプを入手できます。スタンプが5つ貯まると、1回くじを遊ぶことができます。
+We'll take it as follows:
+1. Obtain material from supply pile
+2. Process material at work station
+3. Use material at building site
 
-くじには、左側に1つ、右側に3つ、
-マスが配置されており、そのうち1つを削ることができます。
-左側のマスには2等から4等、
-右側のマスには1等から5等が当たるチャンスがあります。
+It's the finishing touches now, so let's do it with pride!
 
-景品の内容は毎回変化しますので、
-くじに記載された配当表をご確認ください。
-ここでしか手に入らない、珍しい景品もあるかも……！？
+Augebert",""
+36,"ui/icon/070000/070318.tex","It is with great pleasure that I announce the completion of Saint Roelle's Dais. With its inviting ambience, it promises to bring together folk from all walks of life, for great things and small.
 
-興味のある方は、クポフォーチュン窓口「リズベス」まで！",""
-46,,"この度、豊かな資源を有する「ディアデム諸島」が、
-イシュガルド復興事業の公的な資源採集地に決定されました。
+Having finished our work on the connecting pathways, we now turn our gaze towards the New Nest proper. Given the expansive size of the area, this will be a long undertaking, but together we shall see it completed to the last brick.
 
-つきましては、
-優秀な採集家の方々を「ディアデム諸島」へご案内しています。
-特殊な機工ツール「エーテルオーガー」を用い、
-ぜひ多くの資材を採集してください！
+Francel de Haillenarte",""
+37,"ui/icon/070000/070319.tex","We're finally getting started on the New Nest itself. First order of business is to clear out debris, and we'll be working according to the following steps:
+1. Break down large debris
+2. Gather up fragments
+3. Transport fragments for disposal
 
-ディアデム諸島で採集された資材は品質管理の関係上、
-検品を行わせていただいております。
-一度「フロパッサン」のもとへお立ち寄りください。
-検品時には謝礼として、「<Sheet(Item,28063,0)/>」をお渡ししています。
+There's a lot of ground to cover, so every hand counts.
 
-詳細については、
-雲海探索窓口「オールヴァエル」にお尋ねください。",""
-47,,"フェザーフォール商業区の整備計画を開始します！","フランセル"
-48,,"アバカス通り整備計画の整備計画を開始します！","フランセル"
-49,,"ホアフロスト官舎の整備計画を開始します！","フランセル"
-50,,"今期の復興事業計画は全て完了しました！","フランセル"
-51,"ui/icon/070000/070327.tex","蒼天街復興事業総監、フランセル・ド・アインハルトです。
+Augebert",""
+38,"ui/icon/070000/070320.tex","Owing to your generous donations, we have been able to make steady progress on the construction effort. We now humbly request your participation in the forthcoming concerted works, which aim to clear away more debris.
 
-おかげさまでニューネスト居住区の整備が無事に完了し、住人の移住計画は順調に進んでいます。皆さん、ご協力ありがとうございます。
-今期の計画では、西の区画を蒼天街の経済を支える商業区として整備する予定です。完成した暁には賑やかな地域にできるよう、総監として尽力していくので、引き続きのご協力をお待ちしております。
+The task will be performed as follows:
+1. Break down large debris
+2. Gather up fragments
+3. Transport fragments for disposal
 
-フランセル",""
-52,"ui/icon/070000/070328.tex","蒼天街復興事業の現場監督、オーグベルトだ。
-今期の計画では西の区画を商業区にするべく、復興を進めていく予定なんで協力を頼む。
-まずは名も無き者たちの広場の西から、瓦礫を撤去していくぞ！
+I thank you for your continued cooperation.
 
-1.大きな瓦礫を小さく破砕する
-2.持ち運べる破砕片を選別する
-3.破砕片を集積場まで運搬する
+Potkin",""
+39,"ui/icon/070000/070321.tex","Dear friends of the Firmament,
 
-運搬は力作業だからな、力自慢たちの参加を待っているぞ。
+I am pleased to say that the New Nest site is almost free of debris, and the next concerted works should see the last of it removed.
 
-オーグベルト",""
-53,"ui/icon/070000/070329.tex","装備品修理担当の、エイロンウィーです……！
-フェザーフォール商業区の整備のため、引き続き瓦礫の撤去をお願いいたします……！
+For the sake of thoroughness, here is the workflow again:
+1. Break down large debris
+2. Gather up fragments
+3. Transport fragments for disposal
 
-1.大きな瓦礫を小さく破砕する
-2.持ち運べる破砕片を選別する
-3.破砕片を集積場まで運搬する
+Many thanks as always, and may the Kupo of Fortune favor you!
 
-また、私のところでは、皆さんの作業に役立つ「修理材料」や、カララントなども取り扱っておりますので、ぜひご活用ください……！
+Lizbeth",""
+40,"ui/icon/070000/070322.tex","It took us a good while, but the New Nest site is now ready for construction. On the docket for the upcoming concerted works is some clearing and repairing.
 
-エイロンウィー",""
-54,"ui/icon/070000/070330.tex","復興共同作業に従事する皆様、日々のご協力に感謝いたします。
-間近で繰り広げられる職人たちの妙技に胸の高鳴りが抑えられない、ランキング窓口担当のルドブランでございます。
-職人の皆様、ぜひ復興共同作業へのご参加もお願いいたします。
+Clearing:
+1. Clear away fine debris
+Repairing:
+1. Obtain material from supply pile
+2. Process material at work station
+3. Repair damaged area
 
-1.大きな瓦礫を小さく破砕する
-2.持ち運べる破砕片を選別する
-3.破砕片を集積場まで運搬する
+Hope to see you out there helping to lay the groundwork.
 
-なお、累積技巧点の報酬のお受け取りもお忘れなく。
+Augebert",""
+41,"ui/icon/070000/070323.tex","Thanks to all the donations we've received, we can finally start working on the centerpiece of the New Nest: houses.
 
-ルドブラン",""
-55,"ui/icon/070000/070331.tex","皆様、フェザーフォール商業区の整備にご協力をお願いいたします～！
+The workflow's as follows:
+1. Obtain material from supply pile
+2. Process material at work station
+3. Assemble material at assembly site
 
-【清掃作業】
-1.通路に残る微細な瓦礫片を清掃する
+Let's set to it and build warm, welcoming dwellings that folk'll be proud to call home.
 
-【舗装作業】
-1.物資集積場から物資を入手
-2.一次作業場で土木資材に加工
-3.破損個所で舗装
+Augebert",""
+42,"ui/icon/070000/070324.tex","What a fine feeling it is to see one house rise after the next! Let us keep up with our efforts in the next concerted works!
 
-ご協力いただいている皆様への感謝の気持ちを込めて、返礼品は徐々に品目を増やしていますので、ぜひぜひ交換にいらしてくださいねぇ～。
+Below are the particulars:
+1. Obtain material from supply pile
+2. Process material at work station
+3. Assemble material at assembly site
 
-エニー",""
-56,"ui/icon/070000/070332.tex","フェザーフォール商業区の舗装、ご苦労だった！
-今回から、フェザーフォール商業区の住居と大規模施設の建造に移るぞ。
+And remember, when you've collected enough skybuilders' scrips, I should be glad to exchange them for you!
 
-1.物資集積場から物資を入手
-2.一次作業場で資材に加工
-3.最終作業場で建築
+Enie",""
+43,"ui/icon/070000/070325.tex","This is it, people! We're down to the final three houses to be built!
 
-よろしく頼む！
+You'll all know this by now, but here're the steps again:
+1. Obtain material from supply pile
+2. Process material at work station
+3. Assemble material at assembly site
 
-オーグベルト",""
-57,"ui/icon/070000/070333.tex","職人の皆さん、いつも依頼品の納品ありがとうございます！
-復興共同作業へのご参加もお待ちしております！
-作業計画は下記になります！
+With this, all works for the phase will be complete, so let's hold absolutely nothing back!
 
-1.物資集積場から物資を入手
-2.一次作業場で資材に加工
-3.最終作業場で建築
+Augebert",""
+44,"ui/icon/070000/070326.tex","Words cannot well express my joy at the completion of the New Nest. The residential quarter stands ready to warmly welcome those Ishgardians bereft of hearth and home, and I am immeasurably grateful to all of you who helped to make it possible.
 
-以上、よろしくお願いいたします！
+Suffice it to say this is a tremendous achievement in the restoration effort, yet much and more remains to be done. Until such time as we finalize our plans for the next phase, I humbly ask for your continued contribution in the way of supplies.
 
-ポットキン",""
-58,"ui/icon/070000/070334.tex","フェザーフォール商業区の住居建設も大詰めっす！
-職人の皆さん、建設作業のお手伝いもよろしくお願いするっす！
+Francel de Haillenarte",""
+45,,"The Kupo of Fortune is a game of chance that can be played by delivering certain items to Potkin and collecting stamps on a voucher.
 
-1.物資集積場から物資を入手
-2.一次作業場で資材に加工
-3.最終作業場で建築
+Once you have collected five stamps, you may exchange the voucher for a Kupo of Fortune card. Upon each card, there are four treasure chests depicted by hexagons─one on the left and three on the right. You may choose one chest to scratch open.
 
-ディアデム諸島で活躍する、ギャザラーの皆さんの協力も待ってるっすよ！
+The lone chest on the left offers second to fourth prize, while the three chests on the right offer first to fifth, with the fifth being a consolation prize. The prizes available change each time, and we recommend that you review the prize list before playing.
 
-フロパッサン",""
-59,"ui/icon/070000/070335.tex","フェザーフォール商業区の整備計画は、無事に完了しました！
-スカイスチール機工房分館が完成し、復興や生活に役立つ機器がより効率的に製造できるでしょう。
- 続いては、商人たちの象徴である計算機の名前を冠した「アバカス通り」の整備へのご協力、どうかよろしくお願いします……！
+Simply by donating supplies, you could win rare and fabulous prizes! Seek out Lizbeth to test your luck!",""
+46,,"Let it be known that the Diadem has received official designation as a foraging ground for the Ishgardian restoration project. Against this background, passage to the isles is now provided to able gatherers, who will additionally be furnished with a device known as an aetheromatic auger as a means of personal protection and resource procurement both.
 
-フランセル",""
-60,"ui/icon/070000/070336.tex","次は、十字鍬通りに通じる道になる予定の「アバカス通り」の瓦礫撤去作業を開始するぞ！
-復興共同作業への参加、よろしく頼む！
+For safety reasons, materials thus obtained in the Diadem must undergo inspection. Upon returning from a foray, we ask that you please present all items to our resource inspector, Flotpassant. You will be awarded an amount in skybuilders' scrips by way of recompense.
 
-1.大きな瓦礫を小さく破砕する
-2.持ち運べる破砕片を選別する
-3.破砕片を集積場まで運搬する
+For further information, please seek out the head of exploratory missions, Aurvael de Haillenarte.",""
+47,,"Works on Featherfall have begun.","Francel"
+48,,"Works on the Abacus have begun.","Francel"
+49,,"Works on Hoarfrost Hall have begun.","Francel"
+50,,"The reconstruction of Featherfall is complete!","Francel"
+51,"ui/icon/070000/070327.tex","Pray allow me to express my most sincere gratitude to all skybuilders for your tireless efforts on our behalf.
 
-急な斜面が多いから、くれぐれも気をつけて作業してくれよな！
+The construction of the New Nest was no small challenge, but once again you proved yourselves more than up to the task, as proven by the countless adventurers and others who are now proud to call the district home.
 
-オーグベルト",""
-61,"ui/icon/070000/070337.tex","クポの実ないよ！　クポフォーチュンならあるよ！
-リズベスが、次の復興共同作業の内容をお知らせします！
+In this next stage of the restoration, we shall transform the western area into Featherfall, a commercial quarter that is to serve as the beating heart of the Firmament's new economy, bringing prosperity and a higher standard of living to Ishgardians one and all. My humble thanks for your selfless contribution to the cause.
 
-【清掃作業】
-1.通路に残る微細な瓦礫片を清掃する
+Francel de Haillenarte",""
+52,"ui/icon/070000/070328.tex","The area to the west of the Mendicant's Court is going to be home to a lively market one day, but right now it's only home to an unsightly collection of refuse and debris─and that's where you come in.
 
-【舗装作業】
-1.物資集積場から物資を入手
-2.一次作業場で土木資材に加工
-3.破損個所で舗装
+The order of the day:
+1. Break down large debris
+2. Gather up fragments
+3. Transport fragments for disposal
 
-スタンプがたまったら、ぜひクポフォーチュンに挑戦してくださいね！
+It ain't a glamorous job, but it's an important one. We're counting on you.
 
-リズベス",""
-62,"ui/icon/070000/070338.tex","職人の皆様にお願いです。
-アバカス通りの景観向上のための復興共同作業へ、ご参加いただきたいのです。
-作業内容は下記となります。
+Augebert",""
+53,"ui/icon/070000/070329.tex","Greetings, brave skybuilders, and please know that your efforts on the Firmament's behalf do not go unappreciated by me or any of my colleagues. Today's task will involve clearing more debris from the district that will one day be Featherfall.
 
-1.物資集積場から物資を入手
-2.一次作業場で資材に加工
-3.最終作業場で建築
+We will proceed as follows:
+1. Break down large debris
+2. Gather up fragments
+3. Transport fragments for disposal
 
-美しい職人たちの美しい技術で、美しい装飾が施されるのを楽しみにしております。
+Should you ever have need of dyes or other materials for repairing, pray visit my shop. I would be happy to afford you with whatever you need.
 
-ルドブラン",""
-63,"ui/icon/070000/070339.tex","皆さんのおかげで、見事な通りが完成しました！　ありがとうございました！
-続いては、復興事業に携わる皇都の職人や住み込みで働く労働者の集合住宅となる、ホアフロスト官舎建造の計画を進めていきたいと思っています。
-大規模な施設を建設する計画ですので、復興共同作業も多く発生します。皆さんの協力、お待ちしております。
+Eilonwy",""
+54,"ui/icon/070000/070330.tex","Honored skybuilders,
 
-フランセル",""
-64,"ui/icon/070000/070340.tex","ホアフロスト官舎は、大人数が入居できる大規模施設になる予定だ！
-建築の復興共同作業も連続で行うから、みんな無理のないように参加してくれ！
+I pray this notice finds you hale, hearty, and eager to participate in another round of concerted works, which are set to proceed as follows:
+1. Break down large debris
+2. Gather up fragments
+3. Transport fragments for disposal
 
-1.物資集積場から物資を入手
-2.一次作業場で資材に加工
-3.最終作業場で建築
+I look forward to hearing the sound of your mighty hammers and pickaxes ringing out throughout Featherfall!
 
-今期最後の復興共同作業なんで、よろしく頼むぜ！
+Ever your dutiful skyward score tallier,
 
-オーグベルト",""
-65,"ui/icon/070000/070341.tex","ホアフロスト官舎が完成し、今期の整備計画は全て完了しました！
-皆さん、ご協力ありがとうございました！
-フェザーフォール商業区では経済の活性化を促すべく、製造業・商業に関する税金の緩和政策や、行商人への保障などを行う予定です。
-人や物が豊かに行き来するような、賑やかな街になるといいですね。
-復興事業に携わる職人方に、最大限の感謝を。
+Ludovraint",""
+55,"ui/icon/070000/070331.tex","How inspiring it is to see Featherfall slowly but surely restored to grandeur! Truly, we are ever in your debt.
 
-フランセル",""
+Today, we wish to ask your cooperation in two most vital tasks:
+Clearing:
+1. Clear away fine debris
+Repairing:
+1. Obtain material from supply pile
+2. Process material at work station
+3. Repair damaged area
+
+And pray do not forget that it would be my
+pleasure to exchange the skybuilders'
+scrips you've accumulated at any time!
+
+Enie",""
+56,"ui/icon/070000/070332.tex","Good work paving the streets of Featherfall, builders. Now we can get to the heart of it: putting up the buildings that will serve as the district's residences and shops.
+
+Task's simple enough:
+1. Obtain material from supply pile
+2. Process material at work station
+3. Use material at building site
+
+Let's make Featherfall a place traders and artisans will be happy to call home, shall we?
+
+Augebert",""
+57,"ui/icon/070000/070333.tex","Thanks to your efforts, the supplies keep flowing in, which means Potkin's as pleased as a man can be. I'm also pleased to announce the commencement of the next round of concerted works, your participation in which would be most appreciated.
+
+The workflow is one you're doubtless familiar with:
+1. Obtain material from supply pile
+2. Process material at work station
+3. Use material at building site
+
+May the Kupo of Fortune smile upon you, skybuilders!
+
+Potkin",""
+58,"ui/icon/070000/070334.tex","Your friendly local resource inspector, Flotpassant, here! Did you miss me? Today's works will see us put the finishing touches on Featherfall's residences─an important task, to say the least.
+
+The agenda for the day:
+1. Obtain material from supply pile
+2. Process material at work station
+3. Use material at building site
+
+Should any of our brave gatherers wish to lend their aid to the cause before your next expedition to the Diadem, know that we would be full glad for your support!
+
+Flotpassant",""
+59,"ui/icon/070000/070335.tex","It is with great pleasure and pride that I announce the completion of Featherfall's commercial district. The branch office of the Skysteel Manufactory that now stands as a testament to your tireless efforts is sure to bring forth a wealth of technological wonders that will enrich the daily lives of Ishgardians and spur the restoration to still greater heights.
+
+And yet, our work is far from done. The next stage of works will see us pave the way for the Abacus─so named for the counting instruments employed by the myriad merchants and traders that will peddle all manner of wondrous wares on the majestic avenue
+that it will be when construction is
+done. It is in this spirit that I humbly
+ask for the continued cooperation of all
+who are willing and able.
+
+Francel de Haillenarte",""
+60,"ui/icon/070000/070336.tex","When our work is done, the Abacus will cut a clear path all the way to the Mattock, but as is, you can barely take two steps without tripping over a pile of debris. That's where we come in.
+
+We'll proceed in the following manner:
+1. Break down large debris
+2. Gather up fragments
+3. Transport fragments for disposal
+
+Steep slopes abound, so take care to watch your footing.
+
+Augebert",""
+61,"ui/icon/070000/070337.tex","Dear friends of the Firmament,
+
+Progress proceeds apace on the Abacus, and we are set to commence the next stage of concerted works, which shall comprise the following:
+
+Clearing:
+1. Clear away fine debris
+Repairing:
+1. Obtain material from supply pile
+2. Process material at work station
+3. Repair damaged area
+
+Our sincere thanks for your efforts, and
+may the Kupo of Fortune ever
+smile upon you!
+
+Lizbeth",""
+62,"ui/icon/070000/070338.tex","Esteemed builders,
+
+Thanks in no small part to your dedicated efforts on our behalf, the Abacus is beginning to resemble the thriving marketplace it will be more and more by the day. Today's concerted efforts, as detailed below, will bring us ever closer to that goal.
+
+1. Obtain material from supply pile
+2. Process material at work station
+3. Use material at building site
+
+I look forward to seeing these streets shine as a testament to your artisanal prowess and
+aesthetic sensibilities.
+
+Your faithful skyward score tallier,
+
+Ludovraint",""
+63,"ui/icon/070000/070339.tex","Thanks to your tireless efforts and surpassing skill, the Abacus is complete, and it is a more majestic avenue than even I had ever envisioned. Truly, I have not the words to express my gratitude.
+
+And yet, there is still work to be done. With the Firmament serving ever more as the beating heart of the new Ishgard, we have need of a residence hall sufficient to house the increasing numbers of craftsmen, merchants, and laborers that have relocated here. And so we shall commence work on our most ambitious project to date─the construction of the Hoarfrost. I most humbly entreat your continued support.
+
+Francel de Haillenarte",""
+64,"ui/icon/070000/070340.tex","In all my years, I've never worked on a structure as ambitious as the Hoarfrost, and I reckon you haven't either. This will demand the best from all our builders, but I'm sure you're up to the task.
+
+Concerted works will be carried out as follows:
+1. Obtain material from supply pile
+2. Process material at work station
+3. Assemble material at assembly site
+
+Let's set to it and build a residence hall that folk'll be happy to come home to every night.
+
+Augebert",""
+65,"ui/icon/070000/070341.tex","Friends, builders, countrymen─it is with the utmost pride and joy that I announce the completion of Featherfall. From this day forward, Ishgard shall have a new center of trade and commerce worthy of this new age of enlightenment and prosperity.
+
+It goes without saying that is a momentous achievement─not only in the restoration, but in the annals of our fair nation─and it is one that would not have been possible without each and every one of you working selflessly and tirelessly on our behalf. Ishgard shall not soon forget your invaluable contributions, and neither shall I.
+
+Francel de Haillenarte",""
