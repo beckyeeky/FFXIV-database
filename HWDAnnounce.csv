@@ -3,81 +3,157 @@
 int32,str,ENpcResident,byte,byte
 0,"",,0,0
 1,"",,0,0
-2,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,8
-3,"In the upcomin' session, we're plannin' to complete the first stage of works. If you haven't already, check the skybuilders' board for details.","Firmament foreman",3,8
-4,"First stage works are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?","Firmament foreman",3,8
-5,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,8
-6,"In the upcomin' session, we're plannin' to complete the second stage of works. If you haven't already, check the skybuilders' board for details.","Firmament foreman",3,8
-7,"Second stage works are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?","Firmament foreman",3,8
-8,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,8
-9,"In the upcomin' session, we're plannin' to complete the third stage of works. If you haven't already, check the skybuilders' board for details.","Firmament foreman",3,8
-10,"With that, all works in the Mendicant's Court are complete! You can rightly be proud of yourselves, all of you!","Firmament foreman",8,8
+2,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,8
+3,"次の作業で、第一期区画の施設を完成させる予定だ！
+開始の時刻は、復興事業掲示板で確認してくれ！","共同作業の現場監督",3,8
+4,"第一期整備計画の完了、ご苦労だった！
+第二期の整備計画のために、窓口へ資材の納品を頼む！","共同作業の現場監督",3,8
+5,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,8
+6,"次の作業で、第二期区画の施設を完成させる予定だ！
+開始の時刻は、復興事業掲示板で確認してくれ！","共同作業の現場監督",3,8
+7,"第二期整備計画の完了、ご苦労だった！
+第三期の整備計画のために、窓口へ資材の納品を頼む！","共同作業の現場監督",3,8
+8,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,8
+9,"次の作業で、第三期区画の施設を完成させる予定だ！
+開始の時刻は、復興事業掲示板で確認してくれ！","共同作業の現場監督",3,8
+10,"「名も無き者たちの広場」整備計画の全工程、これにて完了だ！
+みんな、ご苦労だったなッ！！","共同作業の現場監督",8,8
 11,"",,0,0
-12,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-13,"First stage works for the Mattock are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?","Firmament foreman",3,10
-14,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-15,"Second stage works for the Mattock are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?","Firmament foreman",3,10
-16,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-17,"In the upcomin' session, we're plannin' to complete the third stage of works for the Mattock. If you haven't already, check the skybuilders' board for details.","Firmament foreman",3,10
-18,"Third stage works for the Mattock are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?","Firmament foreman",3,10
-19,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-20,"In the upcomin' session, we're plannin' to complete the fourth stage of works for the Mattock. If you haven't already, check the skybuilders' board for details.","Firmament foreman",3,10
-21,"We've done it, everyone! The Mattock stretches out towards a brighter tomorrow! Let's not rest on our laurels, though, eh? We're gettin' started on Saint Roelle's Dais next, and for that we'll need more supplies!","Firmament foreman",8,10
-22,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-23,"First stage works for Saint Roelle's Dais are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?","Firmament foreman",3,10
-24,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-25,"Second stage works for Saint Roelle's Dais are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?","Firmament foreman",3,10
-26,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-27,"In the upcomin' session, we're plannin' to complete the third stage of works for Saint Roelle's Dais. If you haven't already, check the skybuilders' board for details.","Firmament foreman",3,10
-28,"Third stage works for Saint Roelle's Dais are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?","Firmament foreman",3,10
-29,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-30,"We've done it, everyone! Saint Roelle's Dais beckons folk to come together! Let's not rest on our laurels, though, eh? We're gettin' started on the New Nest next, and for that we'll need more supplies!","Firmament foreman",8,10
-31,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-32,"First stage works for the New Nest are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?","Firmament foreman",3,10
-33,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-34,"Second stage works for the New Nest are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?","Firmament foreman",3,10
-35,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-36,"Third stage works for the New Nest are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?","Firmament foreman",3,10
-37,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-38,"In the upcomin' session, we're plannin' to complete the fourth stage of works for the New Nest. If you haven't already, check the skybuilders' board for details.","Firmament foreman",3,10
-39,"Fourth stage works for the New Nest are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?","Firmament foreman",3,10
-40,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-41,"In the upcomin' session, we're plannin' to complete the fifth stage of works for the New Nest. If you haven't already, check the skybuilders' board for details.","Firmament foreman",3,10
-42,"Fifth stage works for the New Nest are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?","Firmament foreman",3,10
-43,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-44,"In the upcomin' session, we're plannin' to complete the sixth stage of works for the New Nest. If you haven't already, check the skybuilders' board for details.","Firmament foreman",3,10
-45,"Sixth stage works for the New Nest are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?","Firmament foreman",3,10
-46,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-47,"In the upcomin' session, we're plannin' to complete the seventh stage of works for the New Nest. If you haven't already, check the skybuilders' board for details.","Firmament foreman",3,10
-48,"We've done it, everyone! The New Nest stands completed and ready to welcome Ishgardian citizens home! The nation is in your debt!","Firmament foreman",8,10
+12,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+13,"「十字鍬通り」第一期整備計画の完了、ご苦労だった！
+第二期の整備計画のために、窓口へ資材の納品を頼む！","共同作業の現場監督",3,10
+14,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+15,"「十字鍬通り」第二期整備計画の完了、ご苦労だった！
+第三期の整備計画のために、窓口へ資材の納品を頼む！","共同作業の現場監督",3,10
+16,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+17,"次の作業で、「十字鍬通り」第三期整備計画を完了させる予定だ！
+開始の時刻は、復興事業掲示板で確認してくれ！","共同作業の現場監督",3,10
+18,"「十字鍬通り」第三期整備計画の完了、ご苦労だった！
+第四期の整備計画のために、窓口へ資材の納品を頼む！","共同作業の現場監督",3,10
+19,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+20,"次の作業で、「十字鍬通り」第四期整備計画を完了させる予定だ！
+開始の時刻は、復興事業掲示板で確認してくれ！","共同作業の現場監督",3,10
+21,"「十字鍬通り」整備計画の全工程、これにて完了だ！ご苦労だった！
+次は「聖ロエル広場」の整備計画のために、窓口へ資材の納品を頼む！","共同作業の現場監督",8,10
+22,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+23,"「聖ロエル広場」第一期整備計画の完了、ご苦労だった！
+第二期の整備計画のために、窓口へ資材の納品を頼む！","共同作業の現場監督",3,10
+24,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+25,"「聖ロエル広場」第二期整備計画の完了、ご苦労だった！
+第三期の整備計画のために、窓口へ資材の納品を頼む！","共同作業の現場監督",3,10
+26,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+27,"次の作業で、「聖ロエル広場」第三期整備計画を完了させる予定だ！
+開始の時刻は、復興事業掲示板で確認してくれ！","共同作業の現場監督",3,10
+28,"「聖ロエル広場」第三期整備計画の完了、ご苦労だった！
+第四期の整備計画のために、窓口へ資材の納品を頼む！","共同作業の現場監督",3,10
+29,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+30,"「聖ロエル広場」整備計画の全工程、これにて完了だ！ご苦労だった！
+次は「ニューネスト居住区」の整備計画のために納品を頼む！","共同作業の現場監督",8,10
+31,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+32,"「ニューネスト居住区」第一期整備計画の完了、ご苦労だった！
+第二期の整備計画のために、窓口へ資材の納品を頼む！","共同作業の現場監督",3,10
+33,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+34,"「ニューネスト居住区」第二期整備計画の完了、ご苦労だった！
+第三期の整備計画のために、窓口へ資材の納品を頼む！","共同作業の現場監督",3,10
+35,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+36,"「ニューネスト居住区」第三期整備計画の完了、ご苦労だった！
+第四期の整備計画のために、窓口へ資材の納品を頼む！","共同作業の現場監督",3,10
+37,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+38,"次で「ニューネスト居住区」第四期整備計画を完了させる予定だ！
+開始の時刻は、復興事業掲示板で確認してくれ！","共同作業の現場監督",3,10
+39,"「ニューネスト居住区」第四期整備計画の完了、ご苦労だった！
+第五期の整備計画のために、窓口へ資材の納品を頼む！","共同作業の現場監督",3,10
+40,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+41,"次で「ニューネスト居住区」第五期整備計画を完了させる予定だ！
+開始の時刻は、復興事業掲示板で確認してくれ！","共同作業の現場監督",3,10
+42,"「ニューネスト居住区」第五期整備計画の完了、ご苦労だった！
+第六期の整備計画のために、窓口へ資材の納品を頼む！","共同作業の現場監督",3,10
+43,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+44,"次で「ニューネスト居住区」第六期整備計画を完了させる予定だ！
+開始の時刻は、復興事業掲示板で確認してくれ！","共同作業の現場監督",3,10
+45,"「ニューネスト居住区」第六期整備計画の完了、ご苦労だった！
+第七期の整備計画のために、窓口へ資材の納品を頼む！","共同作業の現場監督",3,10
+46,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+47,"次で「ニューネスト居住区」第七期整備計画を完了させる予定だ！
+開始の時刻は、復興事業掲示板で確認してくれ！","共同作業の現場監督",3,10
+48,"「ニューネスト居住区」整備計画の全工程、これにて完了だ！
+みんな、ご苦労だったなッ！！","共同作業の現場監督",8,10
 49,"",,0,0
-50,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-51,"First stage works for Featherfall are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?","Firmament foreman",3,10
-52,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-53,"Second stage works for Featherfall are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?","Firmament foreman",3,10
-54,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-55,"Third stage works for Featherfall are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?","Firmament foreman",3,10
-56,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-57,"In the upcomin' session, we're plannin' to complete the fourth stage of works for Featherfall. If you haven't already, check the skybuilders' board for details.","Firmament foreman",3,10
-58,"Fourth stage works for Featherfall are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?","Firmament foreman",3,10
-59,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-60,"In the upcomin' session, we're plannin' to complete the fifth stage of works for Featherfall. If you haven't already, check the skybuilders' board for details.","Firmament foreman",3,10
-61,"Fifth stage works for Featherfall are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?","Firmament foreman",3,10
-62,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-63,"In the upcomin' session, we're plannin' to complete the sixth stage of works for Featherfall. If you haven't already, check the skybuilders' board for details.","Firmament foreman",3,10
-64,"Sixth stage works for Featherfall are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?","Firmament foreman",3,10
-65,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-66,"In the upcomin' session, we're plannin' to complete the seventh stage of works for Featherfall. If you haven't already, check the skybuilders' board for details.","Firmament foreman",3,10
-67,"An' there it is! Featherfall's ready to assume its role as the livin', breathin' heart of the Firmament. But no rest for the weary─aye, there's still work to be done on the Abacus.","Firmament foreman",8,10
-68,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-69,"First stage works for the Abacus are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?","Firmament foreman",3,10
-70,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-71,"In the upcomin' session, we're plannin' to complete the second stage of works for the Abacus. If you haven't already, check the skybuilders' board for details.","Firmament foreman",3,10
-72,"Second stage works for the Abacus are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?","Firmament foreman",3,10
-73,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-74,"We've done it! The Abacus stretches out toward a more prosperous future for the Firmament! Let's not rest on our laurels, though, eh? We're gettin' started on Hoarfrost Hall next, and for that we'll need more supplies!","Firmament foreman",8,10
-75,"Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule.",,0,10
-76,"First stage works for Hoarfrost Hall are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?","Firmament foreman",3,10
-77,"Second stage works for Hoarfrost Hall are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?","Firmament foreman",3,10
-78,"In the upcomin' session, we're plannin' to complete the final stage of works for Hoarfrost Hall. If you haven't already, check the skybuilders' board for details.","Firmament foreman",3,10
-79,"We've done it! Hoarfrost Hall is ready to welcome adventurers from the realm over to their new home! Hold your heads high, skybuilders─you've done a great service to Ishgard today!","Firmament foreman",8,10
+50,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+51,"「フェザーフォール商業区」第一期整備計画の完了、ご苦労だった！
+第二期の整備計画のために納品を頼む！","共同作業の現場監督",3,10
+52,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+53,"「フェザーフォール商業区」第二期整備計画の完了、ご苦労だった！
+第三期の整備計画のために納品を頼む！","共同作業の現場監督",3,10
+54,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+55,"「フェザーフォール商業区」第三期整備計画の完了、ご苦労だった！
+第四期の整備計画のために納品を頼む！","共同作業の現場監督",3,10
+56,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+57,"次で「フェザーフォール商業区」第四期整備計画を完了させる予定だ！
+開始の時刻は、復興事業掲示板で確認してくれ！","共同作業の現場監督",3,10
+58,"「フェザーフォール商業区」第四期整備計画の完了、ご苦労だった！
+第五期の整備計画のために納品を頼む！","共同作業の現場監督",3,10
+59,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+60,"次で「フェザーフォール商業区」第五期整備計画を完了させる予定だ！
+開始の時刻は、復興事業掲示板で確認してくれ！","共同作業の現場監督",3,10
+61,"「フェザーフォール商業区」第五期整備計画の完了、ご苦労だった！
+第六期の整備計画のために納品を頼む！","共同作業の現場監督",3,10
+62,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+63,"次で「フェザーフォール商業区」第六期整備計画を完了させる予定だ！
+開始の時刻は、復興事業掲示板で確認してくれ！","共同作業の現場監督",3,10
+64,"「フェザーフォール商業区」第六期整備計画の完了、ご苦労だった！
+第七期の整備計画のために納品を頼む！","共同作業の現場監督",3,10
+65,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+66,"次で「フェザーフォール商業区」第七期整備計画を完了させる予定だ！
+開始の時刻は、復興事業掲示板で確認してくれ！","共同作業の現場監督",3,10
+67,"「フェザーフォール商業区」整備計画の全工程、これにて完了だ！
+次は「アバカス通り」の整備計画のために納品を頼む！","共同作業の現場監督",8,10
+68,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+69,"「アバカス通り」第一期整備計画の完了、ご苦労だった！
+第二期の整備計画のために納品を頼む！","共同作業の現場監督",3,10
+70,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+71,"次で「アバカス通り」第二期整備計画を完了させる予定だ！
+開始の時刻は、復興事業掲示板で確認してくれ！","共同作業の現場監督",3,10
+72,"「アバカス通り」第二期整備計画の完了、ご苦労だった！
+第三期の整備計画のために納品を頼む！","共同作業の現場監督",3,10
+73,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+74,"「アバカス通り」整備計画の全工程、これにて完了だ！ご苦労だった！
+次は「ホアフロスト官舎」の整備計画のために納品を頼む！","共同作業の現場監督",8,10
+75,"充分な資材が集まったので、復興共同作業を行います。
+復興事業掲示板で、作業開始時刻を確認してください。",,0,10
+76,"「ホアフロスト官舎」整備計画第一段階の完了、ご苦労だった！
+第二段階開始の時刻は、復興事業掲示板で確認してくれ！","共同作業の現場監督",3,10
+77,"「ホアフロスト官舎」整備計画第二段階の完了、ご苦労だった！
+第三段階開始の時刻は、復興事業掲示板で確認してくれ！","共同作業の現場監督",3,10
+78,"次で「ホアフロスト官舎」整備計画を完了させる予定だ！
+最終段階開始の時刻は、復興事業掲示板で確認してくれ！","共同作業の現場監督",3,10
+79,"「ホアフロスト官舎」整備計画の全工程、これにて完了だ！
+みんな、ご苦労だったなッ！！","共同作業の現場監督",8,10

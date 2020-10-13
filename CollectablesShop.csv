@@ -1,7 +1,0 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
-#,Name,Quest,,ShopItems[0],ShopItems[1],ShopItems[2],ShopItems[3],ShopItems[4],ShopItems[5],ShopItems[6],ShopItems[7],ShopItems[8],ShopItems[9],ShopItems[10]
-int32,str,Quest,byte,CollectablesShopItem,CollectablesShopItem,CollectablesShopItem,CollectablesShopItem,CollectablesShopItem,CollectablesShopItem,CollectablesShopItem,CollectablesShopItem,CollectablesShopItem,CollectablesShopItem,CollectablesShopItem
-3866624,"",,0,"","","","","","","","","","",""
-3866625,"Oddly Specific Materials Exchange (Crafting)","In Everyone's Best Interests",2,"Oddly Specific Cedar Lumber","Oddly Specific Iron Nails","Oddly Specific Mythril Rings","Oddly Specific Silver Nugget","Oddly Specific Gaganaskin Strap","Oddly Specific Cloth","Oddly Specific Glue","Oddly Specific Oil","","",""
-3866626,"収集品納品","Inscrutable Tastes",1,"Rarefied Cedar Longbow","Rarefied Mythrite Katzbalger","Rarefied Mythrite Sallet","Rarefied Mythrite Goggles","Rarefied Archaeoskin Belt","Rarefied Rainbow Bolero","Rarefied Archaeoskin Grimoire","Rarefied Dhalmel Gratin","Yellow Copper Ore","Old World Fig","Icepick"
-3866627,"●収集品回収",,1,"Mythrite Trident","Mythrite Katzbalger","Mythrite Sallet of Fending","Agate Ring of Fending","Archaeoskin Belt of Striking","Rainbow Cap of Aiming","Archaeoskin Grimoire","Fig Bavarois","","",""
